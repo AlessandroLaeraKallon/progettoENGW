@@ -1,0 +1,2 @@
+serviceClass: com.engsw2022.client.GreetingService
+path: 2C8D65DA02B006B1135DEFBCA12FE6DF.gwt.rpc
