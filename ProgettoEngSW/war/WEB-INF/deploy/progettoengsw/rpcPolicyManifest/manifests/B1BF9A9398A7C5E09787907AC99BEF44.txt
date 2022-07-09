@@ -1,0 +1,2 @@
+serviceClass: com.progettoengsw.client.GreetingService
+path: 64E02C279CED4917FA6A5A67DECF0849.gwt.rpc

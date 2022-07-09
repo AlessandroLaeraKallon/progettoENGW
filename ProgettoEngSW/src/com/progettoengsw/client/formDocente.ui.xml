@@ -1,0 +1,17 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui">
+	<ui:style>
+	
+	</ui:style>
+	<g:HTMLPanel>
+	 <form style="padding: 10px; background: green; border: 1px solid">
+	     <input type="text" value="inserire nome corso..."/>
+	      <input type="text" value="inserire data..."/>
+	      <input type="text" value="inserire ora..."/>
+	          <input type="text" value="inserire durata..."/>
+	              <input type="text" value="inserire aula..."/>
+	       <input type="submit" value="send info"/>
+	  </form>
+	</g:HTMLPanel>
+</ui:UiBinder> 
